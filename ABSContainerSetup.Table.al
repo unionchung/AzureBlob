@@ -1,4 +1,4 @@
-table 50100 "ABS Container setup"
+table 88100 "ABS Container setup"
 {
     DataClassification = ToBeClassified;
 

@@ -1,4 +1,4 @@
-codeunit 50100 AttachedDocuments
+codeunit 88100 AttachedDocuments
 {
     trigger OnRun()
     begin

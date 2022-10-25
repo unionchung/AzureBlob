@@ -1,4 +1,4 @@
-pageextension 50100 DocumentAttDetailsExt extends "Document Attachment Details"
+pageextension 88100 DocumentAttDetailsExt extends "Document Attachment Details"
 {
     layout
     {

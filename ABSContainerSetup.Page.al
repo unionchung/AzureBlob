@@ -1,4 +1,4 @@
-page 50100 "Azure Blob Storage"
+page 88100 "Azure Blob Storage"
 {
     PageType = Card;
     ApplicationArea = All;
